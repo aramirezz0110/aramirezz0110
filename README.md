@@ -8,7 +8,7 @@
  </div>   
 <div >
         <h2>💼 Technical skills</h2>
-        <img src="https://img.shields.io/badge/Code-C%23-blueviolet" width="200">
+        <img src="https://img.shields.io/badge/Code-C%23-blueviolet" width="50">
     </div>
 
 
