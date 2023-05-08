@@ -4,6 +4,7 @@
         <h3 align="center">
             Experienced Unity Game Developer with over 3 years of experience. I have worked on the development of 2D and 3D games, virtual and augmented reality experiences, and game design. I am a natural leader and passionate about technological innovation. I am looking to apply my skills and knowledge to challenging and innovative projects.
         </h3>
+        <hr>
  </div>   
 
 
