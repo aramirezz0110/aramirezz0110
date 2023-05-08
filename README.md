@@ -6,6 +6,7 @@
         </h3>
         <hr>
  </div>   
+## Technical Skills
 
 
     
