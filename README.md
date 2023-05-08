@@ -6,7 +6,10 @@
         </h3>
         <hr>
  </div>   
-## Technical Skills
+<div >
+        <h2>💼 Technical skills</h2>
+        <img src="https://img.shields.io/badge/Code-C%23-blueviolet" width="200">
+    </div>
 
 
     
