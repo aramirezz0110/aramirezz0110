@@ -29,5 +29,17 @@
         </a>
     </div>
 
-    
+   <div>
+        <h2>💻 I'm currently working on</h2>
+        <li>VR and AR apps</li>
+        <li>Upgrading old projects</li>
+        <li>Game design</li>
+        <li>My Youtube channel</li>
+    </div>
+    <div>
+        <h2>📚 I'm currently learning</h2>
+        <li>3D modeling</li>
+        <li>Story telling</li>
+        <li>Photography</li>
+    </div>  
 
