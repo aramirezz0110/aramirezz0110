@@ -8,11 +8,11 @@
  </div>   
 <div >
         <h2>💼 Technical skills</h2>
-        <img src="https://img.shields.io/badge/Code-C%23-blueviolet" width="50">
-        <img src="https://img.shields.io/badge/Code-C%2B%2B-blue" height="50">
-        <img src="https://img.shields.io/badge/Augmented%20Reality-Unity-9cf" width="50">
-        <img src="https://img.shields.io/badge/Virtual%20Reality-Unity-green" width="50">
-        <img src="https://img.shields.io/badge/2D%20and%203D%20games-Unity-orange" width="50">
+        <img src="https://img.shields.io/badge/Code-C%23-blueviolet">
+        <img src="https://img.shields.io/badge/Code-C%2B%2B-blue">
+        <img src="https://img.shields.io/badge/Augmented%20Reality-Unity-9cf">
+        <img src="https://img.shields.io/badge/Virtual%20Reality-Unity-green">
+        <img src="https://img.shields.io/badge/2D%20and%203D%20games-Unity-orange">
     </div>
 
 
