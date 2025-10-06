@@ -2,7 +2,7 @@
         <img src="https://media.giphy.com/media/J47zreUx5lBT2SqjUY/giphy.gif?cid=ecf05e47tk8idcvusjw57xbhndydnb6op65lq6xfiugf4pod&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
         <h1 align="center">Hello there!  I'm Arom Ramirez 😁😎</h1>
         <h3 align="center">
-                Unity Game Developer with over 5 years of experience in the full game development lifecycle, from concept to launch. Proficient in creating immersive 2D, 3D, VR, AR, and XR experiences for multiplatform devices, including Meta Quest (2 & 3), Android, iOS, Windows, and macOS. Key skills include third-party SDK and package integration, performance optimization, and agile development. Proven ability to work both independently and collaboratively in a team.
+                Unity Developer with 5+ years of experience building immersive 2D, 3D, VR, AR, and XR experiences across multiple platforms, including Meta Quest, Android, iOS, Windows, and macOS. Skilled in full-cycle game development — from prototyping and design to optimization and deployment. Strong expertise in integrating third-party SDKs, developing performant and scalable architectures, and applying Agile methodologies. Passionate about delivering innovative and polished interactive experiences.
         </h3>
         <hr>
  </div>   
